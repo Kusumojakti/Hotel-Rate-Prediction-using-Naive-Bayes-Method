@@ -6,3 +6,8 @@ The result about this process is here
 
 ![image](https://github.com/Kusumojakti/Hotel-Rate-Prediction-using-Naive-Bayes-Method/assets/100892746/f98d0d00-8c1a-45b7-8ad7-78a3bb18f3de)
 
+or you can jump into csv file in here 
+https://github.com/Kusumojakti/Hotel-Rate-Prediction-using-Naive-Bayes-Method/blob/main/UAS_Machine%20Learning_Submition.csv
+
+Thank You for visiting my repo!
+Have a nice day everyone
